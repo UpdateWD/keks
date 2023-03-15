@@ -55,7 +55,7 @@ async def information_menu():
 	markup = InlineKeyboardMarkup(
 		inline_keyboard = [
 			[
-				InlineKeyboardButton(text = 'Channel', url='https://t.me/+qJju3A3pYks4YzQ6'),
+				InlineKeyboardButton(text = 'Channel', url='https://t.me/+K_k00xexQ5E4MjU0'),
 				#InlineKeyboardButton(text = 'Chat', url='https://'),
 			],
 			[
